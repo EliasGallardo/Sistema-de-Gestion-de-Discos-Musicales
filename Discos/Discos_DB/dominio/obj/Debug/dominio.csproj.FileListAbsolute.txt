@@ -1,0 +1,6 @@
+C:\Users\GALLO\Desktop\Discos\Discos_DB\dominio\bin\Debug\dominio.dll
+C:\Users\GALLO\Desktop\Discos\Discos_DB\dominio\bin\Debug\dominio.pdb
+C:\Users\GALLO\Desktop\Discos\Discos_DB\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\GALLO\Desktop\Discos\Discos_DB\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\GALLO\Desktop\Discos\Discos_DB\dominio\obj\Debug\dominio.dll
+C:\Users\GALLO\Desktop\Discos\Discos_DB\dominio\obj\Debug\dominio.pdb

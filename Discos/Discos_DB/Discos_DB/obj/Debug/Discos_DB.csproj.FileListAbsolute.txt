@@ -1,0 +1,17 @@
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\bin\Debug\Discos_DB.exe.config
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\bin\Debug\Discos_DB.exe
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\bin\Debug\Discos_DB.pdb
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\obj\Debug\Discos_DB.csproj.AssemblyReference.cache
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\obj\Debug\Discos_DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\obj\Debug\Discos_DB.Form1.resources
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\obj\Debug\Discos_DB.Properties.Resources.resources
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\obj\Debug\Discos_DB.csproj.GenerateResource.cache
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\obj\Debug\Discos_DB.csproj.CoreCompileInputs.cache
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\obj\Debug\Discos_DB.exe
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\obj\Debug\Discos_DB.pdb
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\bin\Debug\dominio.dll
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\bin\Debug\dominio.pdb
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\obj\Debug\Discos_DB.csproj.CopyComplete
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\bin\Debug\negocio.dll
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\bin\Debug\negocio.pdb
+C:\Users\GALLO\Desktop\Discos\Discos_DB\Discos_DB\obj\Debug\Discos_DB.frmAltaDisco.resources

@@ -1,0 +1,9 @@
+C:\Users\GALLO\Desktop\Discos\Discos_DB\negocio\bin\Debug\negocio.dll
+C:\Users\GALLO\Desktop\Discos\Discos_DB\negocio\bin\Debug\negocio.pdb
+C:\Users\GALLO\Desktop\Discos\Discos_DB\negocio\bin\Debug\dominio.dll
+C:\Users\GALLO\Desktop\Discos\Discos_DB\negocio\bin\Debug\dominio.pdb
+C:\Users\GALLO\Desktop\Discos\Discos_DB\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\GALLO\Desktop\Discos\Discos_DB\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\GALLO\Desktop\Discos\Discos_DB\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\GALLO\Desktop\Discos\Discos_DB\negocio\obj\Debug\negocio.dll
+C:\Users\GALLO\Desktop\Discos\Discos_DB\negocio\obj\Debug\negocio.pdb
